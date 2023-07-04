@@ -9,6 +9,10 @@ public class UsageOfThis {
 		System.out.println("Constructor without parameters !!!");
 	}
 
+	/*
+	 * Use this when local variable (argument) and instance are same.
+	 */
+
 	public UsageOfThis(int iUserId, String strUserName) {
 		this.iUserId = iUserId;
 		this.strUsername = strUserName;
