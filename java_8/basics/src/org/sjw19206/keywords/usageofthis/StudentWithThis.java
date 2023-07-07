@@ -1,6 +1,11 @@
 package org.sjw19206.keywords.usageofthis;
 
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
 public class StudentWithThis {
+
+	public static final Logger logger = LogManager.getLogger(StudentWithThis.class);
 
 	private int iStudentId;
 	private String strStudentName;
@@ -11,7 +16,7 @@ public class StudentWithThis {
 	}
 
 	public void displayDetails() {
-		System.out.println("Student Id :: " + iStudentId);
-		System.out.println("Student Name :: " + strStudentName);
+		logger.info("Student Id :: " + iStudentId);
+		logger.info("Student Name :: " + strStudentName);
 	}
 }

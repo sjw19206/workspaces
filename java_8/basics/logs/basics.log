@@ -1,0 +1,9 @@
+2023-07-07 16:18:32,376 INFO org.sjw19206.inheritance.single.Person [main] Constructor Person() is invoked :: 
+2023-07-07 16:18:32,387 INFO org.sjw19206.inheritance.single.Person [main] Unique Id :: 23456755
+2023-07-07 16:18:32,387 INFO org.sjw19206.inheritance.single.Person [main] Name :: Joe Thomas
+2023-07-07 16:18:32,387 INFO org.sjw19206.inheritance.single.Person [main] Age :: 34
+2023-07-07 16:18:32,388 INFO org.sjw19206.inheritance.single.Person [main] Constructor Person() is invoked :: 
+2023-07-07 16:18:32,388 INFO org.sjw19206.inheritance.single.Person [main] Unique Id :: 87698745
+2023-07-07 16:18:32,389 INFO org.sjw19206.inheritance.single.Person [main] Name :: James Roy
+2023-07-07 16:18:32,389 INFO org.sjw19206.inheritance.single.Person [main] Age :: 12
+2023-07-07 16:18:32,389 INFO org.sjw19206.inheritance.single.Student [main] Student Id :: 87656477
